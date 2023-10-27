@@ -1,6 +1,6 @@
 # tradutor-de-celulas-em-excel
 
-Converte uma planilha em inglês para português
+Converte uma planilha excel em inglês para português
 
 ## Tecnologias utilizadas
 
